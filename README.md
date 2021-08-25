@@ -1,3 +1,1 @@
 # sidestreamREAL1
-SideStreamREAL1のapk配布専用のリポジトリです。
-配布するapk以外Pushしないでください。
